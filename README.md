@@ -18,7 +18,7 @@ PROJECT SET-UP:
 - To Finally start the Application Open 3 cmd Iterations all in the codebase directory and run these 3 commands(1 in Each) and leave these cmd's on and running throughout your testing Time
      - php artisan serve --port=9440
      - php artisan schedule:work
-     - php artisan queue:work
+     - php artisan queue:listen
 
 Postman Documentation: https://documenter.getpostman.com/view/36671417/2sAYdhLWDs
 
